@@ -1,0 +1,5 @@
+*.
+backend/release/
+frontend/release/
+node_modules/
+!.gitignore
